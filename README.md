@@ -7,7 +7,7 @@ I’m Asmahan, I don’t just write code—I architect solutions that scale, aut
 ---
 
 ## 📖 Table of Contents
-1. [🙋‍♂️About Me](#about-me)  
+1. [🙋🏻‍♂️About Me](#about-me)  
 2. [🛠️ Skills](#skills)  
 3. [💼 Experience](#experience)  
 4. [🚀 Projects](#projects)  
@@ -18,7 +18,7 @@ I’m Asmahan, I don’t just write code—I architect solutions that scale, aut
 ---
 
 <a name="about-me"></a>
-## About Me
+## 🙋🏻‍♂️About Me
 I’m a passionate software engineer based in Islamabad, Pakistan, with a knack for tackling tough problems and turning wild ideas into production-ready systems. Whether it’s scraping the web for data, automating repetitive tasks on social media, or architecting AI pipelines, I bring energy, professionalism, and a healthy dose of “why the hell not?” to every project.
 
 ---
