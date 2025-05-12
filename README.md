@@ -31,8 +31,8 @@ I’m a passionate software engineer based in Islamabad, Pakistan, with a knack 
   - **Automation & DevOps:** Web scraping bots, CI/CD pipelines, Docker containers, Bash scripting  
   - **GenAI & RAG:** Retrieval-Augmented Generation with LangChain, GenAI prototyping, prompt engineering  
   - **Machine Learning & AI:** PyTorch, TensorFlow, Hugging Face transformers, MLOps basics  
-- **Languages & Frameworks:** Python · Django · Flask · JavaScript · React · PHP · C/C++  
-- **Web & APIs:** Django REST Framework · GraphQL · Selenium · API versioning & documentation  
+- **Languages & Frameworks:** Python(Specialization) · Django · Flask · Java · PHP · C/C++ 
+- **Web & APIs:** Django REST Framework · Flask · FAST API · Selenium · API versioning & documentation  
 - **Databases & Data:** MongoDB · MySQL · PostgreSQL · Firebase · Data analytics & pipeline design  
 - **Cloud & Infrastructure:** AWS (Lambda, S3, ECS) · GCP (Cloud Run, BigQuery) · Terraform basics  
 - **Tools & Workflows:** Git · Docker · Linux · Agile/Scrum · JIRA  
