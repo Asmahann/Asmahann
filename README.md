@@ -1,16 +1,111 @@
-## Hi there 👋
+# Hi there, I’m Asmahan Umer 👋
 
-<!--
-**Asmahann/Asmahann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Talented & Professional Software Engineer | AI Nerd | Automation Junkie**
 
-Here are some ideas to get you started:
+I’m Asmahan, I don’t just write code—I architect solutions that scale, automate the boring bits, and sprinkle a little AI magic where it counts. Let’s build the future together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Table of Contents
+1. [About Me](#about-me)  
+2. [🛠️ Skills](#skills)  
+3. [💼 Experience](#experience)  
+4. [🚀 Projects](#projects)  
+5. [🎓 Education](#education)  
+6. [🏆 Achievements & Certifications](#achievements--certifications)  
+7. [📫 Connect With Me](#connect-with-me)  
+
+---
+
+<a name="about-me"></a>
+## About Me
+I’m a passionate software engineer based in Islamabad, Pakistan, with a knack for tackling tough problems and turning wild ideas into production-ready systems. Whether it’s scraping the web for data, automating repetitive tasks on social media, or architecting AI pipelines, I bring energy, professionalism, and a healthy dose of “why the hell not?” to every project.
+
+---
+
+<a name="skills"></a>
+## 🛠️ Skills
+
+- **Core Competencies:**  
+  - **Backend Development:** RESTful API design, microservices architecture, scalable systems  
+  - **Automation & DevOps:** Web scraping bots, CI/CD pipelines, Docker containers, Bash scripting  
+  - **GenAI & RAG:** Retrieval-Augmented Generation with LangChain, GenAI prototyping, prompt engineering  
+  - **Machine Learning & AI:** PyTorch, TensorFlow, Hugging Face transformers, MLOps basics  
+- **Languages & Frameworks:** Python · Django · Flask · JavaScript · React · PHP · C/C++  
+- **Web & APIs:** Django REST Framework · GraphQL · Selenium · API versioning & documentation  
+- **Databases & Data:** MongoDB · MySQL · PostgreSQL · Firebase · Data analytics & pipeline design  
+- **Cloud & Infrastructure:** AWS (Lambda, S3, ECS) · GCP (Cloud Run, BigQuery) · Terraform basics  
+- **Tools & Workflows:** Git · Docker · Linux · Agile/Scrum · JIRA  
+- **Soft Skills:** Creative problem-solver · Collaborative teammate · Always learning & questioning the status quo
+
+---
+
+<a name="experience"></a>
+## 💼 Experience
+
+### **Automation Engineer**  
+**EGEEKS GLOBAL**
+- Built AI-powered automation systems to streamline Facebook tasks and workflows.  
+- Architected and maintained complex scrapers for static & dynamic content.  
+- Collaborated asynchronously with a distributed international team.
+
+---
+
+<a name="projects"></a>
+## 🚀 Projects
+
+> *Here’s where I flex—check out my code, star ⭐, fork 🍴, and let’s collab!*
+
+- **AI-Based Music Recommender System (FYP)**  
+  A collaborative-filtering engine in PyTorch that kept parties bumping.  
+  _Repo:_ `music-recommender`  
+
+- **RAG Methodology with LangChain**  
+  Boosted chatbot IQ with Retrieval-Augmented Generation.  
+  _Repo:_ `rag-langchain-demo`  
+
+- **Web Scraping & Automation**  
+  Suite of scripts & tools to extract data and automate workflows at scale.  
+  _Repo:_ `scrape-and-automate`  
+
+- **Chatbots & Telegram Bots**  
+  Multi-purpose bots for support, notifications, and memes.  
+  _Repo:_ `telegram-bot-suite`  
+
+- **Multiple PDFs Questioner**  
+  Upload a folder of PDFs—ask questions, get instant answers. Because reading is overrated.  
+  _Repo:_ `pdf-qa-engine`
+
+---
+
+<a name="education"></a>
+## 🎓 Education
+
+**BS Software Engineering**  
+COMSATS Institute of Information Technology
+
+---
+
+<a name="achievements--certifications"></a>
+## 🏆 Achievements & Certifications
+
+- **Top 25% Globally** in The Talent Games (C-Factor Gamified Assessment)  
+- **Udemy Certified** Python Training  
+- **UTC (TechXplore’24)** Participant & Presenter  
+
+---
+
+<a name="connect-with-me"></a>
+## 📫 Connect With Me
+
+- 🖇️ **GitHub:** [asmahan-umer](https://github.com/asmahan-umer)  
+- 🖇️ **LinkedIn:** [asmahan-umer](https://linkedin.com/in/asmahan-umer)  
+- 📧 **Email:** asmahan.umer@gmail.com  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+>  
+> Ready to build something epic? Open an issue, shoot me a message, or just say hi!
+
+---
+
+*Made with ❤️ and a relentless drive to learn.*  
