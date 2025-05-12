@@ -7,7 +7,7 @@ I’m Asmahan, I don’t just write code—I architect solutions that scale, aut
 ---
 
 ## 📖 Table of Contents
-1. [About Me](#about-me)  
+1. [🙋‍♂️About Me](#about-me)  
 2. [🛠️ Skills](#skills)  
 3. [💼 Experience](#experience)  
 4. [🚀 Projects](#projects)  
@@ -98,9 +98,9 @@ COMSATS Institute of Information Technology
 <a name="connect-with-me"></a>
 ## 📫 Connect With Me
 
-- 🖇️ **GitHub:** [asmahan-umer](https://github.com/asmahan-umer)  
+- 🖇️ **GitHub:** [Asmahann](https://github.com/Asmahann)  
 - 🖇️ **LinkedIn:** [asmahan-umer](https://linkedin.com/in/asmahan-umer)  
-- 📧 **Email:** asmahan.umer@gmail.com  
+- 📧 **Email:** [asmahan.umer@gmail.com](mailto:asmahan.umer@gmail.com)  
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 >  
