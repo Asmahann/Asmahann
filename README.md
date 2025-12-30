@@ -31,11 +31,11 @@ I’m a passionate software engineer based in Islamabad, Pakistan, with a knack 
   - **Automation & DevOps:** Web scraping bots, CI/CD pipelines, Docker containers, Bash scripting  
   - **GenAI & RAG:** Retrieval-Augmented Generation with LangChain, GenAI prototyping, prompt engineering  
   - **Machine Learning & AI:** PyTorch, TensorFlow, Hugging Face transformers, MLOps basics  
-- **Languages & Frameworks:** Python(Specialization) · Django · Flask · Java · PHP · C/C++ 
+- **Languages & Frameworks:** Python(Specialization) · Django · Flask · FASTAPI · Agentic workflows  · CrewAI · LLMs
 - **Web & APIs:** Django REST Framework · Flask · FAST API · Selenium · API versioning & documentation  
-- **Databases & Data:** MongoDB · MySQL · PostgreSQL · Firebase · Data analytics & pipeline design  
-- **Cloud & Infrastructure:** AWS (Lambda, S3, ECS) · GCP (Cloud Run, BigQuery) · Terraform basics  
-- **Tools & Workflows:** Git · Docker · Linux · Agile/Scrum · JIRA  
+- **Databases & Data:** MongoDB · MySQL · PostgreSQL · Firebase
+- **Cloud & Infrastructure:** AWS (Lambda, S3, ECS) 
+- **Tools & Workflows:** Git · Docker · Linux · Agile/Scrum  
 - **Soft Skills:** Creative problem-solver · Collaborative teammate · Always learning & questioning the status quo
 
 ---
@@ -43,11 +43,14 @@ I’m a passionate software engineer based in Islamabad, Pakistan, with a knack 
 <a name="experience"></a>
 ## 💼 Experience
 
-### **Automation Engineer**  
+### **AI Engineer**  
 **EGEEKS GLOBAL**
 - Built AI-powered automation systems to streamline Facebook tasks and workflows.  
 - Architected and maintained complex scrapers for static & dynamic content.  
-- Collaborated asynchronously with a distributed international team.
+- Collaborated asynchronously with a distributed team.
+- Stood an Assignment Generation Bot, that builds a whole 4000+ words assignment with few clicks with all the features and specifications required by modern educational purposes.
+- Automated Whatsapp chat for intent classification of human texts to instruct flowzo bot according using Agentic workflows.
+- FileReader API that is designed for reading any kind of file more than 12 types including images etc. that also instructs the flowzo bot. Also categorizes if the given file is Task or non task file and acts accordingly.
 
 ---
 
