@@ -2,7 +2,7 @@
 
 **Talented & Professional Software Engineer | AI Nerd | Automation Junkie**
 
-I’m Asmahan, I don’t just write code—I architect solutions that scale, automate the boring bits, and sprinkle a little AI magic where it counts. Let’s build the future together! 🚀
+I’m Asmahan, I don’t just write code, I architect solutions that scale, automate the boring bits, and sprinkle a little AI magic where it counts. Let’s build the future together! 🚀
 
 ---
 
