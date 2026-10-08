@@ -57,28 +57,48 @@ I’m a passionate software engineer based in Islamabad, Pakistan, with a knack 
 <a name="projects"></a>
 ## 🚀 Projects
 
-> *Here’s where I flex—check out my code, star ⭐, fork 🍴, and let’s collab!*
+> *Here's where I flex—check out my code, star ⭐, fork 🍴, and let's collab!*
 
-- **AI-Based Music Recommender System (FYP)**  
-  A collaborative-filtering engine in PyTorch that kept parties bumping.  
-  _Repo:_ `music-recommender`  
+## 🚀 Production Projects
 
-- **RAG Methodology with LangChain**  
-  Boosted chatbot IQ with Retrieval-Augmented Generation.  
-  _Repo:_ `rag-langchain-demo`  
+- **boxbox: Agentic AI Copilot for Construction Site Managers** 🏗️
+  One orchestrator routes requests to six specialist agents (RFI, Submittal, Daily Log, Directory, Todo, Research). I built the secure ETL pipeline and RAG layer behind it: OCR + vision for scanned drawings and handwritten markups, semantic chunking with re-linking, hybrid dense + keyword search, cross-encoder re-ranking and page-level citations.
+  _Live:_ [boxboxbuilders.com](https://boxboxbuilders.com)
 
-- **Web Scraping & Automation**  
-  Suite of scripts & tools to extract data and automate workflows at scale.  
-  _Repo:_ `scrape-and-automate`  
+- **FileReader API** 👀
+  The "eyes" of a WhatsApp sales bot. OCR reads images and PDFs, a 3-classifier vote decides whether a file is a payment proof or a task file, extracts 13 fields, and resets non-task files to null so the bot never acts on noise.
+  _Repo:_ private (production work)
 
-- **Chatbots & Telegram Bots**  
-  Multi-purpose bots for support, notifications, and memes.  
-  _Repo:_ `telegram-bot-suite`  
+- **ChatReader API** 💬
+  The "ears" of the same bot. A master agent reads the WhatsApp inbox, works out what the customer means (deadline, pricing, grades, feedback) and routes it to the right specialist agent, with a Pinecone validator at 0.8 confidence to catch routing drift.
+  _Repo:_ private (production work)
 
-- **Multiple PDFs Questioner**  
-  Upload a folder of PDFs—ask questions, get instant answers. Because reading is overrated.  
+- **Autonomous Lead Generation Bot** 🤖
+  A Django bot secured with JWT authentication that finds leads on its own, scores lead fit with a trained model, and uses a Selenium Q&A bot to engage, qualify and track replies. Rate-limited, resilient extraction keeps it running unattended.
+  _Repo:_ private (production work)
+
+## 🎓 Earlier Projects
+
+- **AI-Based Music Recommender System (FYP)**
+  A collaborative-filtering engine in PyTorch that kept parties bumping.
+  _Repo:_ `music-recommender`
+
+- **RAG Methodology with LangChain**
+  Boosted chatbot IQ with Retrieval-Augmented Generation.
+  _Repo:_ `rag-langchain-demo`
+
+- **Web Scraping & Automation**
+  Suite of scripts & tools to extract data and automate workflows at scale.
+  _Repo:_ `scrape-and-automate`
+
+- **Chatbots & Telegram Bots**
+  Multi-purpose bots for support, notifications, and memes.
+  _Repo:_ `telegram-bot-suite`
+
+- **Multiple PDFs Questioner**
+  Upload a folder of PDFs—ask questions, get instant answers. Because reading is overrated.
   _Repo:_ `pdf-qa-engine`
-
+  
 ---
 
 <a name="education"></a>
