@@ -57,7 +57,7 @@ I’m a passionate software engineer based in Islamabad, Pakistan, with a knack 
 <a name="projects"></a>
 ## 🚀 Projects
 
-> *Here's where I flex—check out my code, star ⭐, fork 🍴, and let's collab!*
+> *Here's where I flex -check out my code, star ⭐, fork 🍴, and let's collab!*
 
 ## 🚀 Production Projects
 
@@ -77,7 +77,7 @@ I’m a passionate software engineer based in Islamabad, Pakistan, with a knack 
   A Django bot secured with JWT authentication that finds leads on its own, scores lead fit with a trained model, and uses a Selenium Q&A bot to engage, qualify and track replies. Rate-limited, resilient extraction keeps it running unattended.
   _Repo:_ private (production work)
 
-## 🎓 Earlier Projects
+## Earlier Projects
 
 - **AI-Based Music Recommender System (FYP)**
   A collaborative-filtering engine in PyTorch that kept parties bumping.
